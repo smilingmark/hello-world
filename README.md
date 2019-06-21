@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+hahha
+
+i like learning computure skills
